@@ -1,0 +1,21 @@
+{
+  "name": "object-extractor1",
+  "version": "0.0.1",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/object-extractor.umd.cjs",
+  "module": "./dist/object-extractor.js",
+  "exports": {
+    "import": "./dist/object-extractor.js",
+    "require": "./dist/object-extractor.umd.cjs"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
