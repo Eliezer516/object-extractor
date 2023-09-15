@@ -1,6 +1,6 @@
 {
-  "name": "object-extractor1",
-  "version": "0.0.2",
+  "name": "object-extractor",
+  "version": "0.0.0",
   "type": "module",
   "files": [
     "dist"
@@ -18,4 +18,5 @@
   "devDependencies": {
     "vite": "^4.3.9"
   }
+  "repository": "https://github.com/Eliezer516/object-resolver.git"
 }
