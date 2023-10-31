@@ -5,16 +5,16 @@ object-extractor is a JavaScript module that can be used to extract specific pro
 
 ## Installation
 ```
-npm install object-extractor1
+npm install object-extractor
 
 // or
 
-pnpm add object-extractor1
+pnpm add object-extractor
 ```
 ## Function Signature
 ```javascript
-import extract from 'object-extractor1'
-// const extract = require('object-extractor1')
+import extract from 'object-extractor'
+// const extract = require('object-extractor')
 
 extract({
   extract: ['name', 'address.city'],
