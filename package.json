@@ -18,5 +18,5 @@
   "devDependencies": {
     "vite": "^4.3.9"
   },
-  "repository": "https://github.com/Eliezer516/object-resolver.git"
+  "repository": "https://github.com/Eliezer516/object-extractor.git"
 }
